@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Salcho and I'm a Student and aspiring Fullstack Developer, from Costa Rica</p>
+<p align="left">My name is Salcho and I'm a Student and an aspiring Fullstack Developer, from Costa Rica</p>
 
 ###
 
