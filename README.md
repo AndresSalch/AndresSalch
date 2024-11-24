@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Salcho and I'm a Student and aspiring Fullstack Developer, from Costa Rica</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Rust and Blockchain<br>🎯 Goals: Working😢<br>🎲 Fun fact: I hate PHP</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with </h2>
 
 ###
 
