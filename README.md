@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Rust and Blockchain<br>🎯 Goals: Working😢<br>🎲 Fun fact: I hate PHP</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Rust and Blockchain<br>🎯 Goals: Working😢<br>🎲 Fun fact: I love C++</p>
 
 ###
 
